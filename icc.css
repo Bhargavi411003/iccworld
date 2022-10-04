@@ -1,0 +1,12 @@
+#icc{padding: 0px;margin-left: 2px ;font-size:    30px; font-family:Arial, Helvetica, sans-serif;font-weight:bold ;text-shadow:2px 2px grey;line-height: 25px;}
+
+#test{padding: 3px;margin: left 35px ;border: 0px;font-size 20px ;font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight:bold;color: grey;}
+
+
+
+.style-table{width: 800px ;background-color: white;font-family:Verdana, Geneva, Tahoma, sans-serif ;border-collapse: collapse;border: 2px ridge grey;}
+.style-table th{padding: top 12px ;padding: bottom 12px ;text-align:left ;background-color: red;color: white;font: size 13px ;}
+.style-table td{padding: 8px;}
+.style-table tr:hover{background-color: rgb(206, 195, 195);}
+.style-table tr:nth-child(even){background-color: #f2f2f2;}
+.footer{display: flex;margin-top: 20px;margin-left: 10px;}
